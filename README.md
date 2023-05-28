@@ -4,3 +4,4 @@
 # Now I import "PolynomialFeatures" and set parameter of my "regressor at 4", default is 2, its specifies the maximal degree
 # Next I train and transform my X and when I chave my "polynomial features" i can use "linear regression" and get "Polynomial Regression"
 # I have X as polynomial feature and y trained by Linear Regression, I put this two features to my "lin_reg_2.fit(X_poly, Y)" 
+# Now I can check difference between "Linear Regression" and "Polynomial Regression" by plotting them
