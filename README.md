@@ -7,3 +7,4 @@
 # Now I can check difference between "Linear Regression" and "Polynomial Regression" by plotting them
 # So first I plot "Linear Regression" using "matplotlib", into my "plt.scatter" I put X, y and set color at red 
 # Then into my "plt.plot" i put X and X predicted my "Linear Regression"
+# Now I look at visual results of my "Polynomial Regression", so  into my "plt.plot" I put X and insted to "Lin.reg" I put "lin.reg_2"
