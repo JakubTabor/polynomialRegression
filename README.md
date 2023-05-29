@@ -9,3 +9,4 @@
 # Then into my "plt.plot" i put X and X predicted my "Linear Regression"
 # Now I look at visual results of my "Polynomial Regression", so  into my "plt.plot" I put X and insted to "Lin.reg" I put "lin.reg_2"
 # Which contain predictions of my "X as polynomial feature"  
+# I can also boost my results. "Polynomial Regression" is a very powerfull tool
