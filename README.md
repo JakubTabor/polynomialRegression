@@ -6,3 +6,4 @@
 # I have X as polynomial feature and y trained by Linear Regression, I put this two features to my "lin_reg_2.fit(X_poly, Y)" 
 # Now I can check difference between "Linear Regression" and "Polynomial Regression" by plotting them
 # So first I plot "Linear Regression" using "matplotlib", into my "plt.scatter" I put X, y and set color at red 
+# Then into my "plt.plot" i put X and X predicted my "Linear Regression"
